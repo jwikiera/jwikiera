@@ -1,6 +1,4 @@
 ### Hi, I'm Jacek
 
-
-* I'm a [42Lausanne]() student
-* I teach children and teens programming @ Futurekids and EPFL
-* In my free time I play trumpet, practice calisthenics, and tinker with Free Software
+* I'm a [42Lausanne](https://42lausanne.ch/) student and junior dev
+* In my free time I play trumpet, practice calisthenics, and tinker with software for lulz and profit
